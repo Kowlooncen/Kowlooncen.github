@@ -57,6 +57,7 @@ education:
       - Variational principles of natural science
       - Modeling and management of traffic flows
       - Modeling and control of manipulation robots
+  
   - area:  BSc in Mathematics and Informatics
     institution: Lomonosov Moscow State University 
     date_start: 2019-09-01
@@ -123,18 +124,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music(R&B)
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Bascketball
+        description: ''
+        percent: 80
+        icon: backetball
 
 languages:
   - name: Chinese
@@ -142,7 +147,7 @@ languages:
   - name: English
     percent: 75
   - name: Russian
-    percent: 50
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -153,7 +158,7 @@ awards:
     url: https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046
     date: '2020-12-31'
     awarder: Central People's Government of the People's Republic of China
-    icon: coursera
+    icon: ![Alt text](image-1.png)
     summary: |
       The National Scholarship, funded by the central government of China, is the highest-level scholarship aimed at motivating comprehensive development in moral, intellectual, physical, and artistic aspects among undergraduate students. It is awarded annually through a rigorous and standardized evaluation process. With over 2,000 participating universities and nearly 27 million students competing for 60,000 slots, the winning rate is only 0.2%. The scholarship is disbursed in a lump sum by November 30th, accompanied by nationally standardized certificates and recorded in the students' academic records.
 
