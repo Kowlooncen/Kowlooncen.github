@@ -40,22 +40,11 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area:  MSc in Mathematics and Applied Mathematics
     institution: Lomonosov Moscow State University
     date_start: 2023-09-01
     date_end: 2025-07-01
     summary: |
-      # GPA: 3.8/4.0
-
       Courses included:
       - Applied problems of system analysis: problems of biomathematics
       - Applied problems of system analysis: mathematical models of the environment
@@ -73,7 +62,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-07-01
     summary: |
-      GPA: 3.94/4.0
+      # GPA: 3.94/4.0
       
       Courses included:
       - Mathematical Analysis
@@ -172,7 +161,7 @@ awards:
     url: https://en.wikipedia.org/wiki/China_Scholarship_Council
     date: '2022-12-31'
     awarder: China Scholarship Council
-    icon: edx
+    icon: ![Alt text](image-1.png)
     summary: |
       The number of Chinese students studying abroad is more than half a million each year, the Academic Committee only considers doctoral students with outstanding academic achievements or great research potential during overseas study.
 
