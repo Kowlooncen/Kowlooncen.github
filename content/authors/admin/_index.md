@@ -82,7 +82,7 @@ education:
       - Database Systems
 work:
   - position: Beijing
-    company_name: 晨乐资产有限公司
+    company_name: Dawn Opus Asset Management
     company_url: ''
     company_logo: ''
     date_start: 2023-07-01
