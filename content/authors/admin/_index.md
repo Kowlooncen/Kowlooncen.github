@@ -122,10 +122,14 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Science(Machine Learning)
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
+       - name: C++/C/Java
+        description: ''
+        percent: 50
+        icon: hero/computer-desktop
       - name: SQL
         description: ''
         percent: 40
@@ -136,28 +140,28 @@ skills:
     items:
       - name: Music(R&B)
         description: ''
-        percent: 80
-        icon: hero/sparkles
-      - name: Dogs
+        percent: 90
+        icon: hero/musical-note
+      - name: Handwriting
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: hero/pencil
       - name: Photography
         description: ''
-        percent: 80
+        percent: 70
         icon: camera
       - name: Bascketball
         description: ''
         percent: 80
-        icon: fab/backetball
+        icon: person-simple-walk
 
 languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 80
   - name: Russian
-    percent: 75
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -168,7 +172,7 @@ awards:
     url: https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91/9693046
     date: '2020-12-31'
     awarder: Central People's Government of the People's Republic of China
-    icon: ![Alt text](image-1.png)
+    icon: hero/academic-cap
     summary: |
       The National Scholarship, funded by the central government of China, is the highest-level scholarship aimed at motivating comprehensive development in moral, intellectual, physical, and artistic aspects among undergraduate students. It is awarded annually through a rigorous and standardized evaluation process. With over 2,000 participating universities and nearly 27 million students competing for 60,000 slots, the winning rate is only 0.2%. The scholarship is disbursed in a lump sum by November 30th, accompanied by nationally standardized certificates and recorded in the students' academic records.
 
@@ -176,7 +180,7 @@ awards:
     url: https://en.wikipedia.org/wiki/China_Scholarship_Council
     date: '2022-12-31'
     awarder: China Scholarship Council
-    icon: ![Alt text](image-1.png)
+    icon: hero/sparkles
     summary: |
       The number of Chinese students studying abroad is more than half a million each year, the Academic Committee only considers doctoral students with outstanding academic achievements or great research potential during overseas study.
 
