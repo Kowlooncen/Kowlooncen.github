@@ -122,7 +122,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science(Machine Learning)
+      - name: Data Science
         description: ''
         percent: 90
         icon: chart-bar
@@ -180,7 +180,7 @@ awards:
     url: https://en.wikipedia.org/wiki/China_Scholarship_Council
     date: '2022-12-31'
     awarder: China Scholarship Council
-    icon: hero/sparkles
+#    icon: hero/sparkles
     summary: |
       The number of Chinese students studying abroad is more than half a million each year, the Academic Committee only considers doctoral students with outstanding academic achievements or great research potential during overseas study.
 
