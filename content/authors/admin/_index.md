@@ -126,7 +126,7 @@ skills:
         description: ''
         percent: 90
         icon: chart-bar
-       - name: C++/C/Java
+      - name: C++/C/Java
         description: ''
         percent: 50
         icon: hero/computer-desktop
