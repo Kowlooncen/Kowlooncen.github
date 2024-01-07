@@ -81,12 +81,22 @@ education:
       - Operating Systems
       - Database Systems
 work:
+  - position: Moscow
+    company_name: Huawei
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-11-01
+    summary: |2-
+      Responsibilities include:
+      - Watch hardware research
+
   - position: Beijing
     company_name: Dawn Opus Asset Management
     company_url: ''
     company_logo: ''
-    date_start: 2023-07-01
-    date_end: ''
+    date_start: 2023-03-01
+    date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
       - Quantitative Investment Research
@@ -127,7 +137,7 @@ skills:
       - name: Music(R&B)
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: hero/sparkles
       - name: Dogs
         description: ''
         percent: 100
@@ -139,7 +149,7 @@ skills:
       - name: Bascketball
         description: ''
         percent: 80
-        icon: backetball
+        icon: fab/backetball
 
 languages:
   - name: Chinese
