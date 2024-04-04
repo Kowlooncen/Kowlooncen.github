@@ -81,16 +81,6 @@ education:
       - Operating Systems
       - Database Systems
 work:
-  - position: Moscow
-    company_name: Huawei
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09-01
-    date_end: 2023-11-01
-    summary: |2-
-      Responsibilities include:
-      - Watch hardware research
-
   - position: Beijing
     company_name: Dawn Opus Asset Management
     company_url: ''
