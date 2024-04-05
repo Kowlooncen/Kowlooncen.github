@@ -46,17 +46,19 @@ education:
     date_end: 2025-07-01
     summary: |
       Courses included:
-      - Applied problems of system analysis: problems of biomathematics
-      - Applied problems of system analysis: mathematical models of the environment
-      - Applied problems of system analysis: economic models
-      - Stabilization theory
-      - Additional chapters on dynamic programming and control processes
-      - Elements of financial mathematics
-      - Economic models on networks
-      - Generalized functions and tasks
-      - Variational principles of natural science
-      - Modeling and management of traffic flows
-      - Modeling and control of manipulation robots
+      - Biomathematics
+      - Mathematical Models of the Environment
+      - Economic Models
+      - Stabilization Theory
+      - Dynamic Programming and Control Processes
+      - Elements of Financial Mathematics
+      - Economic Models on Networks
+      - Generalized Functions and Tasks
+      - Variational Principles of Natural Science
+      - Modeling and Management of Traffic Flows
+      - Modeling and Control of Manipulation Robots
+      - Machine Learning
+      - Deep Learning
   
   - area:  BSc in Mathematics and Informatics
     institution: Lomonosov Moscow State University 
@@ -174,6 +176,13 @@ awards:
     summary: |
       The number of Chinese students studying abroad is more than half a million each year, the Academic Committee only considers doctoral students with outstanding academic achievements or great research potential during overseas study.
 
+  - title: "Star of SMBU" (Highest University Honor at MSU-BIT) 
+    date: '2023-06-31'
+    awarder: SMBU
+    summary: |
+      The Shenzhen MSU-BIT University selects the top five students from the school each year, who are honored as the Stars of SMBU.
+
+    
   # - title: 'Object-Oriented Programming in R'
   #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   #   certificate_url: https://www.datacamp.com
